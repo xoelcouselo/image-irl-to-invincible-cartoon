@@ -1,3 +1,7 @@
+/img
+/video
+*.jpg
+
 .DS_Store
 debug*
 datasets/
@@ -41,6 +45,7 @@ test/.coverage
 test/data/legacy_serialized.pt
 *~
 .idea
-
+img_backup
+img\ copy
 #Ignore Wandb
 wandb/
